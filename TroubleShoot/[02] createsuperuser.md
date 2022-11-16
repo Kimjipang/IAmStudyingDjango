@@ -1,4 +1,4 @@
-### sqlite3.OperationalError: no such table: auth_user
+##### sqlite3.OperationalError: no such table: auth_user
 
 #### Issue
 
