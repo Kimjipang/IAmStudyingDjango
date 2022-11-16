@@ -1,4 +1,4 @@
-### No changes detected
+## No changes detected
 
 #### Issue
 
