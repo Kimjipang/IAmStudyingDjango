@@ -44,7 +44,7 @@
 
   1. 솔루션은 프로젝트 디렉토리의 settings.py 파일 내의 INSTALLED_APPS에 model을 변경한 app(필자 기준 board)을 넣어야 한다거나
 
-  <img width="600" alt="스크린샷 2022-11-16 오후 5 11 49" src="https://user-images.githubusercontent.com/91196025/202142620-8235462b-b2c4-489a-81cb-79d7e5d42632.png">
+  <img width="500" alt="스크린샷 2022-11-16 오후 5 11 49" src="https://user-images.githubusercontent.com/91196025/202142620-8235462b-b2c4-489a-81cb-79d7e5d42632.png">
 
   2. makemigrations 뒤에 app 이름을 붙여주는 것으로 에러를 해결했다고 했다.
 
@@ -62,5 +62,5 @@
 
 ​									해결!
 
-<img width="600" alt="스크린샷 2022-11-16 오후 6 26 51" src="https://user-images.githubusercontent.com/91196025/202143221-98cd808b-fc0e-403b-8333-ba221da6418a.png">
+<img width="400" alt="스크린샷 2022-11-16 오후 6 26 51" src="https://user-images.githubusercontent.com/91196025/202143221-98cd808b-fc0e-403b-8333-ba221da6418a.png">
 
