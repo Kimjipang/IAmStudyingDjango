@@ -60,7 +60,7 @@
 
 **solution은 간단했다. models.py 를 저장하면 되는 것이었다,,**
 
-​									해결!
+​									**해결!**
 
 <img width="400" alt="스크린샷 2022-11-16 오후 6 26 51" src="https://user-images.githubusercontent.com/91196025/202143221-98cd808b-fc0e-403b-8333-ba221da6418a.png">
 
