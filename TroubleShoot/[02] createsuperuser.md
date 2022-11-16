@@ -1,5 +1,5 @@
-
-### Issue[sqlite3.OperationalError: no such table: auth_user]
+## sqlite3.OperationalError: no such table: auth_user
+### Issue
 
 - VSC에서 Django 프로젝트를 생성 후, Django에서 기본적으로 제공하는 admin 페이지의 admin 계정을 만들려 했다.
 
