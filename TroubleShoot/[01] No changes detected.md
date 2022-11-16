@@ -62,5 +62,5 @@
 
 ​									해결!
 
-<img width="600" alt="스크린샷 2022-11-16 오후 5 59 45" src="https://user-images.githubusercontent.com/91196025/202142724-521b8650-fe90-4ec4-b7a3-98a24a6cc312.png">
+<img width="600" alt="스크린샷 2022-11-16 오후 6 26 51" src="https://user-images.githubusercontent.com/91196025/202143221-98cd808b-fc0e-403b-8333-ba221da6418a.png">
 
