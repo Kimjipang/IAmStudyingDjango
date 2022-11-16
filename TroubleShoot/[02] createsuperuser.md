@@ -4,7 +4,7 @@
 
 - VSC에서 Django 프로젝트를 생성 후, Django에서 기본적으로 제공하는 admin 페이지의 admin 계정을 만들려 했다.
 
-  <img src="/Users/keemjihwan/Desktop/스크린샷 2022-11-16 오후 3.47.13.png" alt="스크린샷 2022-11-16 오후 3.47.13" style="zoom: 100%;" />
+  <img width="1220" alt="스크린샷 2022-11-16 오후 3 47 13" src="https://user-images.githubusercontent.com/91196025/202110317-56dd7150-e3d4-42ad-b59b-fd23c0183dca.png">
 
 - 이때, 아래와 같은 에러가 발생하였다.
 
@@ -12,7 +12,7 @@
 > sqlite3.OperationalError: no such table:auth_user
 ```
 
-![스크린샷 2022-11-16 오후 3.47.33](/Users/keemjihwan/Desktop/스크린샷 2022-11-16 오후 3.47.33.png)
+<img width="444" alt="스크린샷 2022-11-16 오후 3 47 33" src="https://user-images.githubusercontent.com/91196025/202110347-6dc6265f-5d10-4669-959b-efa8da5e7763.png">
 
 #### Solution
 
@@ -27,5 +27,5 @@ auth_user 테이블이 없어서 발생하는 에러 즉, createsuperuser(superu
 
 ​														해결!
 
-<img src="/Users/keemjihwan/Desktop/Typora/[00] Screen Shot/스크린샷 2022-11-16 오후 4.06.44.png" alt="스크린샷 2022-11-16 오후 4.06.44" style="zoom:67%;" />
+<img width="266" alt="스크린샷 2022-11-16 오후 4 06 44" src="https://user-images.githubusercontent.com/91196025/202110378-60bfa959-ba04-4080-bb30-47de89c7292b.png">
 
