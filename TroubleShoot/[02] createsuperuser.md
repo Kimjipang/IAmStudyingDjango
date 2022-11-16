@@ -15,9 +15,9 @@
 
 ### Solution
 
-auth_user 테이블이 없어서 발생하는 에러 즉, createsuperuser(superuser create)를 할 테이블(DB)이 존재하지 않아 생기는 에러였다.
+- auth_user 테이블이 없어서 발생하는 에러 즉, createsuperuser(superuser create)를 할 테이블(DB)이 존재하지 않아 생기는 에러였다.
 
-테이블을 만들어 주면 해결되는데, 테이블을 만들기 위해서는 migrations 해주어야 함.
+- 테이블을 만들어 주면 해결되는데, 테이블을 만들기 위해서는 migrations 해주어야 함.
 
 ```markdown
 > python manage.py migrate
