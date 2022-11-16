@@ -13,7 +13,7 @@
 
 <img width="444" alt="스크린샷 2022-11-16 오후 3 47 33" src="https://user-images.githubusercontent.com/91196025/202110347-6dc6265f-5d10-4669-959b-efa8da5e7763.png">
 
-#### Solution
+### Solution
 
 auth_user 테이블이 없어서 발생하는 에러 즉, createsuperuser(superuser create)를 할 테이블(DB)이 존재하지 않아 생기는 에러였다.
 
