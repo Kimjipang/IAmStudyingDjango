@@ -35,9 +35,7 @@
 python3 -m venv myvenv # myvenv는 본인이 구축하고 싶은 venv의 이름으로 하면 된다.
 source myvenv/bin/activate # 구축한 venv를 실행하는 코드
 ```
-
-  
-
+<img width="600" alt="스크린샷 2022-11-17 오후 7 59 45" src="https://user-images.githubusercontent.com/91196025/202429120-15ebbbf5-172c-4401-b984-de1e5b1e8e15.png">
 
 
   
