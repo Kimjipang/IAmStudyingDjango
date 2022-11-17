@@ -29,5 +29,15 @@
   -> [파일] - [폴더 열기]
 
   <img width="700" alt="스크린샷 2022-11-17 오후 7 45 24" src="https://user-images.githubusercontent.com/91196025/202426528-d2999552-da25-4cfc-af66-6de46e33e9b8.png">
+  
+- VSC의 터미널(ctrl + shift + `(~)를 입력해도 가능)을 켜서 가상환경인 virtual environment를 구축하고, 구동시켜야 한다.
+```python
+python3 -m venv myvenv # myvenv는 본인이 구축하고 싶은 venv의 이름으로 하면 된다.
+source myvenv/bin/activate # 구축한 venv를 실행하는 코드
+```
+
+  
+
+
 
   
