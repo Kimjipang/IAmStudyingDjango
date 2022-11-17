@@ -58,7 +58,7 @@
 
 - 이것 저것 테스트해 본 끝에 에러에 대한 확실한 solution을 찾을 수 있었다.
 
-**solution은 간단했다. models.py 를 저장하면 되는 것이었다,,**
+#### **solution은 간단했다. models.py 를 저장하면 되는 것이었다,,**
 
 ​	-> IDE 중 하나인 Pycharm 같은 경우에는 저장하는 기능은 있지만 저장을 하지 않아도 python manage.py makemigrations 를 하는데에 문제가 전혀 없었다.
 
