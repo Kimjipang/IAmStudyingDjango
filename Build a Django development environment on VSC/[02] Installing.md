@@ -36,4 +36,36 @@ source myvenv/bin/activate # 구축한 venv를 실행하는 코드
 <img width="600" alt="스크린샷 2022-11-17 오후 7 59 45" src="https://user-images.githubusercontent.com/91196025/202429120-15ebbbf5-172c-4401-b984-de1e5b1e8e15.png">
 
 
+- 이제 Django를 설치해야 한다.
+
+  ```python
+  pip install django~=3.2.10 # 3.2.10 버전의 장고 설치
+  ```
+
+  <img width="600" alt="스크린샷 2022-11-18 오전 10 59 03" src="https://user-images.githubusercontent.com/91196025/202604411-44de520b-101e-4133-8841-4d5fde9f8635.png">
+
+- Django 프로젝트 생성 
+
+  ```python
+  django-admin startproject myweb . # myweb은 만들고 싶은 프로젝트 이름으로 설정하면 된다.
+  ```
+
+- 프로젝트 내 app 생성
+
+  ```python
+  python manage.py startapp login # login이라는 이름으로 app 생성
+  # app name이 login인 것으로 보아 login 기능을 하는 기능들을 담는 곳이라 유추할 수 있다.
+  ```
+
+- 프로젝트 실행
+
+  ```python
+  python manage.py runserver 
+  ```
+
+  
+
+
+
+
 
