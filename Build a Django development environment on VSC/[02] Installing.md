@@ -50,7 +50,7 @@ source myvenv/bin/activate # 구축한 venv를 실행하는 코드
   django-admin startproject myweb . # myweb은 만들고 싶은 프로젝트 이름으로 설정하면 된다.
   ```
 
-  <img width="500" alt="스크린샷 2022-11-18 오전 11 41 52" src="https://user-images.githubusercontent.com/91196025/202605499-ff4baeff-957a-47de-86f5-9f8cf0c32469.png">
+  <img width="400" alt="스크린샷 2022-11-18 오전 11 41 52" src="https://user-images.githubusercontent.com/91196025/202605499-ff4baeff-957a-47de-86f5-9f8cf0c32469.png">
 
 - 프로젝트 내 app 생성
 
@@ -59,7 +59,7 @@ source myvenv/bin/activate # 구축한 venv를 실행하는 코드
   # app name이 login인 것으로 보아 login 기능을 하는 기능들을 담는 곳이라 유추할 수 있다.
   ```
 
-  <img width="500" alt="스크린샷 2022-11-18 오전 11 42 40" src="https://user-images.githubusercontent.com/91196025/202605515-308683e4-eafb-4755-82f0-410653df338a.png">
+  <img width="400" alt="스크린샷 2022-11-18 오전 11 42 40" src="https://user-images.githubusercontent.com/91196025/202605515-308683e4-eafb-4755-82f0-410653df338a.png">
 
 - 프로젝트 실행
 
@@ -67,7 +67,7 @@ source myvenv/bin/activate # 구축한 venv를 실행하는 코드
   python manage.py runserver 
   ```
 
-  <img width="700" alt="스크린샷 2022-11-18 오전 11 46 03" src="https://user-images.githubusercontent.com/91196025/202605536-70c8fc9f-ba2c-4c11-9d87-503dc2015519.png">
+  <img width="1100" alt="스크린샷 2022-11-18 오전 11 46 03" src="https://user-images.githubusercontent.com/91196025/202605536-70c8fc9f-ba2c-4c11-9d87-503dc2015519.png">
 
   
 
