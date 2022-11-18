@@ -1,5 +1,4 @@
- 
-
+ ## Python & Django 설치
 - **Django로 개발을 하기 위해서는 Python을 다운받아야 한다.(python은 3.8 이상의 버전을 권장한다고 함.)**
 
   -> Python Download Link : https://www.python.org/
