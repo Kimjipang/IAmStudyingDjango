@@ -9,7 +9,8 @@
   2. python manage.py runserver 
 
 ```markdown
-> Couldn't import Django. Are you sure it's installed and available on your PYTHONPATH environment variable? Did you forget to activate a virtual environment?
+> Couldn't import Django. Are you sure it's installed and available on your PYTHONPATH environment variable? 
+> Did you forget to activate a virtual environment?
 ```
 
 - 우선 굉장히 당황스러웠다. 잘 되던 것이 되지 않는다는 것과 에러에 대한 설명 때문이었다.
@@ -25,8 +26,8 @@
 2. 환경변수에 python이 설치된 경로가 잘못 되어 있어 python을 인식하지 못하기 때문
 - 이 밖에도 에러에 대한 몇 가지 해결책들이 있었지만 먹히지 않았다.
 - 그러던 중 stack overflow에서 한 해결법을 보았고, 이에 대한 것은 다음과 같았다.
-		- If you are working on a machine where it doesn't have permissions to all the files and moreover you have two versions such as defaulf 2.7 & latest 3.6 then while running the command use the python version with the command. 
-		- 완벽한 해석은 아니지만 여러 버전의 파이썬이 설치된 경우에는 python명령		어를 사용시 버전을 명시해주어야 한다는 것.
+	- If you are working on a machine where it doesn't have permissions to all the files and moreover you have two versions such as defaulf 2.7 & latest 3.6 then while running the command use the python version with the command. 
+	- 완벽한 해석은 아니지만 여러 버전의 파이썬이 설치된 경우에는 python명령어를 사용시 버전을 명시해주어야 한다는 것.
 		
 - python3 manage.py startapp [appname]
 - python3 manage.py runserver
