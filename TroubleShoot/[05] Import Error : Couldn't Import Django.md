@@ -32,6 +32,7 @@
 - python3 manage.py startapp [appname]
 - python3 manage.py runserver
 
-	> 해결! 정상 작동된다.
 ```
+
+##### 해결! 정상 작동된다.
 
